@@ -3,6 +3,7 @@
 You can move and control the cursor without arrow keys. Here is a list of commands.
 
 | Command | Description |
+| ------- | ----------- |
 | CTRL-B | Move cursor to the left |
 | CTRL-F | Move cursor to the right |
 | CTRL-P | View the previous command (or move the cursor up) |
